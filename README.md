@@ -15,3 +15,10 @@ The goal is to document ideas and observations related to how authority flows th
 Additional research and long-form articles can be found here:
 
 https://backlinksense.com
+## Research Notes
+
+- Notes on why contextual backlinks behave differently: [contextual-backlinks.md](contextual-backlinks.md)
+
+## Further Reading
+
+- [Why Contextual Backlinks Are Stronger Than Non Contextual Links](https://backlinksense.com/contextual-backlinks-are-stronger/)
