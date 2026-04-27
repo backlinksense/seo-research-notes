@@ -12,9 +12,8 @@ The focus is on:
 
 The goal is to document ideas and observations related to how authority flows through websites and how search engines interpret structural signals.
 
-Additional research and long-form articles can be found here:
-
-https://backlinksense.com
+Additional research and long-form articles can be found here, including a deeper look at how contextual backlinks behave:
+https://backlinksense.com/contextual-backlinks-are-stronger/
 ## Research Notes
 
 - Notes on why contextual backlinks behave differently: [contextual-backlinks.md](contextual-backlinks.md)
@@ -22,3 +21,4 @@ https://backlinksense.com
 ## Further Reading
 
 - [Why Contextual Backlinks Are Stronger Than Non Contextual Links](https://backlinksense.com/contextual-backlinks-are-stronger/)
+  
